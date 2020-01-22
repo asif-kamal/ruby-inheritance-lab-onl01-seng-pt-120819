@@ -1,5 +1,7 @@
 require_relative "./vehicle.rb"
 
-class Student 
+class Student < User 
+  
+  def initialize
 
 end
